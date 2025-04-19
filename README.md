@@ -64,4 +64,4 @@ Pull requests are welcome! If you have improvements, new problems, or cleaner so
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House <
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
