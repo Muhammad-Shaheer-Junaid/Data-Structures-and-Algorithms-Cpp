@@ -40,7 +40,7 @@ This project is a personal collection of well-structured and optimized solutions
 
 2. Navigate to the folder of your choice:
    ```bash
-   cd Data-Structures-and-Algorithms-Cpp/Sorting
+   cd Data-Structures-and-Algorithms-Cpp/Task 3
    ```
 
 3. Compile and run:
@@ -64,4 +64,4 @@ Pull requests are welcome! If you have improvements, new problems, or cleaner so
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House <
